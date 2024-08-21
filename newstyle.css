@@ -104,6 +104,7 @@ nav ul li a:hover {
 @media (min-width: 768px) {
   .box {
     flex: 1 1 23%;
+    width: 100%
   }
 }
 
@@ -158,6 +159,7 @@ nav ul li a:hover {
 @media (max-width: 480px) {
   .header-content {
     padding: 10px;
+    width: 100%;
   }
 
   .header-title h1 {
