@@ -277,3 +277,9 @@ footer {
     font-size: 30px;
   }
 }
+
+@media (min-width: 768px) {
+  .click {
+    bottom: 5px;
+    margin: 10px;
+  }
