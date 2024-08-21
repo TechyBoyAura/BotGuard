@@ -283,10 +283,12 @@ footer {
     bottom: 5px;
     margin: 10px;
   }
+}
   @media (max-width: 600px) {
   .box p {
     bottom: 5px;
     margin: 10px;
+  }
   }
 
 
@@ -296,8 +298,10 @@ footer {
     width: 100%;
     height: 640px;
   }
+  }
  @media (max-width: 600px) {
   .main-img{
     width: 100%;
     height: 640px;
   }
+ }
